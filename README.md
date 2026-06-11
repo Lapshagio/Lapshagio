@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lapshagio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Software+(En+formación);Especialista+en+Inteligencia+Artificial;Construyendo+código+limpio+y+escalable" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack;Especialista+en+IA;Escribiendo+codigo+limpio" alt="Typing SVG" />
   </a>
 </p>
 
