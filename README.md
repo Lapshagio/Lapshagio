@@ -24,3 +24,5 @@ class PerfilLasha:
 
     def ejecutar_perfil(self):
         return "¡Listo para aportar valor, resolver problemas y escribir código limpio!"
+
+  https://www.linkedin.com/in/lasha-kvirikashvili/?skipRedirect=true
